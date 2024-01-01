@@ -5,3 +5,8 @@
 - [Deep Neural Network - Application](https://github.com/mohadeseh-ghafoori/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 - [Logistic_Regression_with_a_Neural_Network_mindset](https://github.com/mohadeseh-ghafoori/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 - [Planar_data_classification_with_one_hidden_layer](https://github.com/mohadeseh-ghafoori/Coursera-Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_one_hidden_layer.ipynb)
+- ## Course 2 : [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) 
+#### [Certificate Of Completion](https://coursera.org/share/230c89970f0438c142c48490674fab28)
+- [Initialization](https://github.com/mohadeseh-ghafoori/Coursera-Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/Initialization.ipynb)
+- [Optimization_methods](https://github.com/mohadeseh-ghafoori/Coursera-Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/Optimization_methods.ipynb)
+- [Regularization](https://github.com/mohadeseh-ghafoori/Coursera-Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/Regularization.ipynb)
